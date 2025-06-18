@@ -1,0 +1,3 @@
+Tempo de execução massa 1000: 0.000000 segundos | Status ordenação: Ordenado
+Tempo de execução massa 100.000: 0.045000 segundos | Status ordenação: Ordenado
+Tempo de execução massa 500.000: 0.188000 segundos | Status ordenação: Ordenado
